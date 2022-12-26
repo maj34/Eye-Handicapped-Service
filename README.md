@@ -1,2 +1,2 @@
 # Eye-Handicapped-Service
-[ X:AI Conference ] 시각장애인을 위한 안내 봇 서비스
+시각장애인을 위한 안내見 서비스
