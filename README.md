@@ -26,7 +26,7 @@
 
 ## 4. 프로젝트 소개
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/820a0959-c87b-4c19-8764-e09f7b9a079e/Untitled.png)
+<img src='https://user-images.githubusercontent.com/75362328/212471039-1be59f1d-b4b2-4820-aa00-c0b852af3770.jpg' width='100%' height='80%'>
 
 &nbsp;&nbsp;&nbsp;&nbsp; 사회적 약자를 위한 ‘**Social Impact 프로젝트**’를 만들어 보고자 하는 취지에서 본 프로젝트를 시작하였다. 단순한 삶의 편의 개선도 좋지만 필수적으로 AI가 필요한 곳에 기술이 쓰이면 좋을 것이라고 판단했기 때문이다. 기존 시각장애인들을 위한 안내犬은 간단한 길 안내와 위험물 탐지만이 가능하다는 단점이 있었다. 따라서 시각장애인에게 눈이 되어 주자는 목표로 개 견(犬)이 아닌 볼 견(見)을 써서 **‘시각장애인을 위한 안내見 서비스’를 제작**하였다.
 
